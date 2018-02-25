@@ -4,6 +4,13 @@ BMoney ($BMNY)
 **10,000,000 (Ten million) Tokens**
 
 
+-----
+
+Contract Name:	BMoney
+
+Compiler Version:	v0.4.19+commit.c4cbbb05
+
+
 
 ----
 
