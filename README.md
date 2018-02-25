@@ -9,14 +9,15 @@ BMoney ($BMNY)
 
 
 <p><div class="toc">
-<ul>
-<li><a href="#bmoney-bmny">BMoney ($BMNY)</a></li>
-<li><a href="#10-contract-details">1.0 Contract Details</a></li>
-<li><a href="#11-myetherwallet-and-the-metamask-app">1.1 Myetherwallet and the Metamask App.</a></li>
-<li><a href="#12-myetherwallet">1.2 Myetherwallet</a></li>
-<li><a href="#13-metamask-app">1.3 Metamask App.</a></li>
-<li><a href="#14-note-on-erc20-tokens">1.4 Note on ERC20 Tokens</a></li>
-</ul>
+
+<a href="#bmoney-bmny">BMoney ($BMNY)</a><br>
+<a href="#10-contract-details">1.0 Contract Details</a><br>
+<a href="#11-myetherwallet-and-the-metamask-app">1.1 Myetherwallet and the Metamask App.</a><br>
+<a href="#12-myetherwallet">1.2 Myetherwallet</a><br>
+<a href="#13-metamask-app">1.3 Metamask App.</a><br>
+<a href="#14-note-on-erc20-tokens">1.4 Note on ERC20 Tokens</a><br>
+<a href="#15-note-well">1.4 Note Well</a>
+
 </div>
 
 
@@ -135,3 +136,15 @@ Note difference in adding token symbol
 > An ERC20 token's gasUsed is "fixed".
 >
 > If you can make any sense out of this, see: [Ethgasstation](https://ethgasstation.info/predictionTable.php). 
+
+
+------
+
+
+1.5 Note Well
+==================
+
+When you get listed fill in the details on this page where it says, [Official Links](https://etherscan.io/token/0x62fbd81c7fe3377c40dd3e76645da20e21dc6edb?a=0xcc82aa390d5467f53cb91aaa799a9a6bc898cc59), and supply a 28px logo.
+
+
+-------
