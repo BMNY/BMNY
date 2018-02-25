@@ -16,7 +16,7 @@ BMoney ($BMNY)
 <a href="#12-myetherwallet">1.2 Myetherwallet</a><br>
 <a href="#13-metamask-app">1.3 Metamask App.</a><br>
 <a href="#14-note-on-erc20-tokens">1.4 Note on ERC20 Tokens</a><br>
-<a href="#15-note-well">1.4 Note Well</a>
+<a href="#15-note-well">1.5 Note Well</a>
 
 </div>
 
