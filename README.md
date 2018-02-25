@@ -1,6 +1,23 @@
 BMoney ($BMNY)
 ==================
 
+**10,000,000 (Ten million) Tokens**
+
+
+
+----
+
+
+
+
+
+
+----
+
+
+1.0 Contract Details
+==================
+
 
 
 
@@ -25,7 +42,18 @@ TX
 ----
 
 
-Myetherwallet
+
+1.1 Myetherwallet and the Metamask App.
+=============
+
+
+Note difference in adding token symbol
+
+
+-----
+
+
+1.2 Myetherwallet
 =============
 
 > **Click: Add Custom Token**
@@ -56,7 +84,35 @@ Myetherwallet
 
 
 
-Note on ERC20 Tokens
+1.3 Metamask App.
+=============
+
+> **Click: Add Token**
+> 
+> Three text boxes will appear. Usually with Metamask, once you paste the Contract Address in, it will automatically fill in the next two boxes. **This is the  information you need anyway:**
+> 
+> **Box 1 (Contract Address)** 
+> 
+> 0x5644ef5f7d76d8177f14336665bb7edd2e2fdf81
+> 
+> **Box 2 (Token Symbol)** 
+> 
+> $BMNY
+> 
+> **Box 3 (Decimals of Precision)** 
+> 
+> 18
+> 
+> 
+> Then press "Add"
+
+
+
+------
+
+
+
+1.4 Note on ERC20 Tokens
 =============
 
 
