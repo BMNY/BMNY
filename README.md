@@ -56,16 +56,17 @@ Myetherwallet
 
 
 
-
 Note on ERC20 Tokens
+=============
+
 
 
 > Be aware, there are different gas requirements for ERC20 tokens than there are to ETH itself. Be sure to use enough gas when sending an LGO transaction.
-
+>
 > To send ERC20 tokens you must sign a transaction, which uses some itself gas. Gas is sold at a cost per unit price.
-
+>
 > TransactionCost = gasUsed * gasPrice
-
+>
 > An ERC20 token's gasUsed is "fixed".
-
+>
 > If you can make any sense out of this, see: [Ethgasstation](https://ethgasstation.info/predictionTable.php). 
