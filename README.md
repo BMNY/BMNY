@@ -8,7 +8,16 @@ BMoney ($BMNY)
 ----
 
 
-
+<p><div class="toc">
+<ul>
+<li><a href="#bmoney-bmny">BMoney ($BMNY)</a></li>
+<li><a href="#10-contract-details">1.0 Contract Details</a></li>
+<li><a href="#11-myetherwallet-and-the-metamask-app">1.1 Myetherwallet and the Metamask App.</a></li>
+<li><a href="#12-myetherwallet">1.2 Myetherwallet</a></li>
+<li><a href="#13-metamask-app">1.3 Metamask App.</a></li>
+<li><a href="#14-note-on-erc20-tokens">1.4 Note on ERC20 Tokens</a></li>
+</ul>
+</div>
 
 
 
